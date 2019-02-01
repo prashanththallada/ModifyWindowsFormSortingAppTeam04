@@ -22,7 +22,7 @@ A: frmMain.cs
 A: InitializeComponent();
 
 -What is the fully qualified name of the class from which the main form is derived? 
-A: Form 
+A: Form   
 
 -Add code to the Form1_Load method - use intellisense and your IDE to determine: What is this.tbSamples.Value? Set the default value to 10x your team number (if team 1, use 100). If this causes an error, read the error message carefully and make changes as needed.
 A: this.tbSamples.Value = 40;
