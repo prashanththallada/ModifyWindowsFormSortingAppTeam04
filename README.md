@@ -5,18 +5,18 @@ Team - 04
 - Chandra Mouli Kantipudi
 
 -Which algorithm is faster?
-A: Bucket sort
+-A: Bucket sort
 
 -Where is the entry point of the application? (The place execution begins - provide the fully qualified class name and method name)
-A:static class Program
-    {
-        static void Main()
-        {
-        }
-    }
+-A:static class Program
+-    {
+-        static void Main()
+-        {
+-        }
+-    }
 
 -What is the name of the code file that displays the main form?
-A: frmMain.cs
+-A: frmMain.cs
 
 -What method does the main form constructor call?  Hint: look at frmMain.cs, right-click if necessary to "View Code", and then find the constructor (the constructor method name is the same as the class name.)
 A: InitializeComponent();
