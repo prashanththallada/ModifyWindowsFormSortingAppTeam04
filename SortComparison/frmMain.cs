@@ -31,6 +31,12 @@ namespace SortComparison
         {
             this.tbSamples.Value = 40;
             this.cboAlg1.SelectedIndex = 3;
+            this.cboAlg2.SelectedIndex = 11;
+            this.InitializeOutputFolder();
+        }
+        private string InitializeOutputFolder()
+        {
+            return AppDomain.CurrentDomain.BaseDirectory.ToString() + "\\output";
         }
 
         public void Randomize(IList list)
