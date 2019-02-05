@@ -44,8 +44,8 @@ private string InitializeOutputFolder()
 -Create a new method called InitializeOutputFolder() and call it - see the suggested content below. What does this method do? 
 A: Redirecting(Setting) the current folder to output folder 
 -What is this.cmdShuffle?  Call its PerformClick() method before exiting Form1_Load.
-A:
+A:this.cmdShuffle is the shuffle button on the output panel it is used to shuffle the numbers.
 -What is this.cmdSort?  Change its appearance (e.g. ForeColor or BackColor) to highlight it so users will click it. 
-A:
+A:this.cmdSort is a button on output panel used to start sorting once  you selected the desired algorithm. 
 -Make at least one other obvious improvement or customization as desired.
-A:
+A: Changed the fore color of the Shuffle button to green color.

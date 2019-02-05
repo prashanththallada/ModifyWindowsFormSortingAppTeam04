@@ -10,3 +10,15 @@ C:\Users\s531506\Documents\44663\SortComparison_src\SortComparison\obj\x86\Debug
 C:\Users\s531506\Documents\44663\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.csproj.CopyComplete
 C:\Users\s531506\Documents\44663\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.exe
 C:\Users\s531506\Documents\44663\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.pdb
+C:\Users\S530469\OneDrive - nwmissouri.edu\Spring 2019\44663\ModifyWindowsFormSortingAppTeam04\SortComparison\bin\Debug\SortComparison.exe
+C:\Users\S530469\OneDrive - nwmissouri.edu\Spring 2019\44663\ModifyWindowsFormSortingAppTeam04\SortComparison\bin\Debug\SortComparison.pdb
+C:\Users\S530469\OneDrive - nwmissouri.edu\Spring 2019\44663\ModifyWindowsFormSortingAppTeam04\SortComparison\bin\Debug\Gif.Components.dll
+C:\Users\S530469\OneDrive - nwmissouri.edu\Spring 2019\44663\ModifyWindowsFormSortingAppTeam04\SortComparison\bin\Debug\Gif.Components.pdb
+C:\Users\S530469\OneDrive - nwmissouri.edu\Spring 2019\44663\ModifyWindowsFormSortingAppTeam04\SortComparison\obj\x86\Debug\SortComparison.csprojAssemblyReference.cache
+C:\Users\S530469\OneDrive - nwmissouri.edu\Spring 2019\44663\ModifyWindowsFormSortingAppTeam04\SortComparison\obj\x86\Debug\SortComparison.frmMain.resources
+C:\Users\S530469\OneDrive - nwmissouri.edu\Spring 2019\44663\ModifyWindowsFormSortingAppTeam04\SortComparison\obj\x86\Debug\SortComparison.Properties.Resources.resources
+C:\Users\S530469\OneDrive - nwmissouri.edu\Spring 2019\44663\ModifyWindowsFormSortingAppTeam04\SortComparison\obj\x86\Debug\SortComparison.csproj.GenerateResource.cache
+C:\Users\S530469\OneDrive - nwmissouri.edu\Spring 2019\44663\ModifyWindowsFormSortingAppTeam04\SortComparison\obj\x86\Debug\SortComparison.csproj.CoreCompileInputs.cache
+C:\Users\S530469\OneDrive - nwmissouri.edu\Spring 2019\44663\ModifyWindowsFormSortingAppTeam04\SortComparison\obj\x86\Debug\SortComparison.csproj.CopyComplete
+C:\Users\S530469\OneDrive - nwmissouri.edu\Spring 2019\44663\ModifyWindowsFormSortingAppTeam04\SortComparison\obj\x86\Debug\SortComparison.exe
+C:\Users\S530469\OneDrive - nwmissouri.edu\Spring 2019\44663\ModifyWindowsFormSortingAppTeam04\SortComparison\obj\x86\Debug\SortComparison.pdb

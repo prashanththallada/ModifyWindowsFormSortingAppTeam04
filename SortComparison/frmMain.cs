@@ -25,6 +25,9 @@ namespace SortComparison
         public frmMain()
         {
             InitializeComponent();
+            this.cmdShuffle.PerformClick();
+            this.cmdSort.BackColor = Color.Red;
+            this.cmdShuffle.ForeColor =Color.Green;
         }
 
         private void Form1_Load(object sender, EventArgs e)
