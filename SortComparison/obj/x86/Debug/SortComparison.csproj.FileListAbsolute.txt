@@ -22,3 +22,15 @@ C:\Users\S530469\OneDrive - nwmissouri.edu\Spring 2019\44663\ModifyWindowsFormSo
 C:\Users\S530469\OneDrive - nwmissouri.edu\Spring 2019\44663\ModifyWindowsFormSortingAppTeam04\SortComparison\obj\x86\Debug\SortComparison.csproj.CopyComplete
 C:\Users\S530469\OneDrive - nwmissouri.edu\Spring 2019\44663\ModifyWindowsFormSortingAppTeam04\SortComparison\obj\x86\Debug\SortComparison.exe
 C:\Users\S530469\OneDrive - nwmissouri.edu\Spring 2019\44663\ModifyWindowsFormSortingAppTeam04\SortComparison\obj\x86\Debug\SortComparison.pdb
+C:\Users\s531441\Desktop\ModifyWindowsFormSortingAppTeam04\SortComparison\bin\Debug\SortComparison.exe
+C:\Users\s531441\Desktop\ModifyWindowsFormSortingAppTeam04\SortComparison\bin\Debug\SortComparison.pdb
+C:\Users\s531441\Desktop\ModifyWindowsFormSortingAppTeam04\SortComparison\bin\Debug\Gif.Components.dll
+C:\Users\s531441\Desktop\ModifyWindowsFormSortingAppTeam04\SortComparison\bin\Debug\Gif.Components.pdb
+C:\Users\s531441\Desktop\ModifyWindowsFormSortingAppTeam04\SortComparison\obj\x86\Debug\SortComparison.csprojAssemblyReference.cache
+C:\Users\s531441\Desktop\ModifyWindowsFormSortingAppTeam04\SortComparison\obj\x86\Debug\SortComparison.frmMain.resources
+C:\Users\s531441\Desktop\ModifyWindowsFormSortingAppTeam04\SortComparison\obj\x86\Debug\SortComparison.Properties.Resources.resources
+C:\Users\s531441\Desktop\ModifyWindowsFormSortingAppTeam04\SortComparison\obj\x86\Debug\SortComparison.csproj.GenerateResource.cache
+C:\Users\s531441\Desktop\ModifyWindowsFormSortingAppTeam04\SortComparison\obj\x86\Debug\SortComparison.csproj.CoreCompileInputs.cache
+C:\Users\s531441\Desktop\ModifyWindowsFormSortingAppTeam04\SortComparison\obj\x86\Debug\SortComparison.csproj.CopyComplete
+C:\Users\s531441\Desktop\ModifyWindowsFormSortingAppTeam04\SortComparison\obj\x86\Debug\SortComparison.exe
+C:\Users\s531441\Desktop\ModifyWindowsFormSortingAppTeam04\SortComparison\obj\x86\Debug\SortComparison.pdb
